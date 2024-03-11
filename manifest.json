@@ -1,0 +1,9 @@
+﻿{
+	"name": "HoldToInteract",
+	"version_number": "1.0.0",
+	"website_url": "",
+	"description": "Hold down the interact key to repeatedly interact",
+	"dependencies": [
+		"ReturnOfModding-ReturnOfModding-1.0.0"
+	]
+}
