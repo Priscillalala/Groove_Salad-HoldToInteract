@@ -1,8 +1,8 @@
 ﻿{
 	"name": "HoldToInteract",
 	"version_number": "1.0.0",
-	"website_url": "",
-	"description": "Hold down the interact key to repeatedly interact",
+	"website_url": "https://github.com/Priscillalala/Groove_Salad-HoldToInteract",
+	"description": "Holding the interact button counts as repeated input",
 	"dependencies": [
 		"ReturnOfModding-ReturnOfModding-1.0.0"
 	]
