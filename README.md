@@ -10,6 +10,7 @@ This mod depends on the [Return Of Modding](https://github.com/return-of-modding
 ## Config
 A config file will generate in the `ReturnOfModding/config` folder:
 * `interaction_delay`: A delay between simulated interaction inputs (in seconds). Prevents accidental double-inputs with Adaptive Shops and similar.
+* `reset_delay_per_interactable`: If true, the interaction delay will be ignored when switching between different interactables. This allows you to quickly interact with many things in a row, like the barrels on Risk of Rain.
 
 ## With Thanks To
 * Everyone who has contributed to the Return Of Modding project and related tooling
